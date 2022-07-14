@@ -1,0 +1,6 @@
+package effects
+sourcedir = "src"
+modules = Eff
+version = 0.1.0
+license = "GPL-3.0 License"
+homepage = "https://github.com/skykanin/effects"
