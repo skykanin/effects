@@ -1,6 +1,7 @@
 package effects
 sourcedir = "src"
-modules = Eff
+modules = Eff, Examples, FTCQueue, Internal, Union, Util
+main = Eff
 version = 0.1.0
 license = "GPL-3.0 License"
 homepage = "https://github.com/skykanin/effects"
